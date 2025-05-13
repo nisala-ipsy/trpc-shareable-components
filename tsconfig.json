@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "module": "nodenext",
+    "lib": ["DOM", "ES2015", "ESNext"],
+    "moduleResolution": "nodenext"
+  }
+}
